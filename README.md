@@ -12,7 +12,7 @@ This mod adds many new dolls / plushies into the game for player to use for deco
 ModComponent , CraftingRevisions
 ## Localization
 English 
-Known issues
+## Known issues
 - none
 ## Installation
 1. Install the latest version of ModComponent and its dependencies.
