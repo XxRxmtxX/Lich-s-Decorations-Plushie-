@@ -1,11 +1,13 @@
 # Lich's Decorations
 This mod was created by Lich, This is a decoration mod for "The Long Dark".
-
-![screen_low](https://github.com/user-attachments/assets/b13c2114-6f38-4a96-808c-acb5471ba4d0)
+-
+![screen_ff7e4ab5-6](https://github.com/user-attachments/assets/37d81c44-c50b-4206-82d4-41d1aa5e720e)
 -
 This mod adds many new dolls / plushies into the game for player to use for decorating houses or keep company in long journeys.
 ## Items Spawning Regions
 - none
+## Blueprints
+7 cloth --> a Plushy
 ## Dependencies
 ModComponent , CraftingRevisions
 ## Localization
