@@ -4,6 +4,11 @@ This mod was created by Lich, This is a decoration mod for "The Long Dark".
 ![screen_ff7e4ab5-6](https://github.com/user-attachments/assets/37d81c44-c50b-4206-82d4-41d1aa5e720e)
 -
 This mod adds many new dolls / plushies into the game for player to use for decorating houses or keep company in long journeys.
+## Planed Decorations (to be added):
+1. Paintings
+2. mini Flags
+3. Maps
+4. Silverware / Goldware
 ## Items Spawning Regions
 - none
 ## Blueprints
