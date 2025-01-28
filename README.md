@@ -9,6 +9,8 @@ This mod adds many new dolls / plushies into the game for player to use for deco
 2. mini Flags
 3. Maps
 4. Silverware / Goldware
+
+### for items suggestion to be added, message me on the discord modding channel. @xxxDestructionLord79xxx
 ## Items Spawning Regions
 - none
 ## Blueprints
