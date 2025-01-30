@@ -8,9 +8,8 @@ This mod was created by Lich, This is a decoration mod for "The Long Dark".
 This mod adds many new dolls / plushies / wall-hanged flags into the game for player to use for decorating houses or keep company in long journeys.
 ## Planed Decorations (to be added):
 1. Paintings
-2. mini Flags
-3. Maps
-4. Silverware / Goldware
+2. Maps
+3. Silverware / Goldware
 
 ### for items suggestion to be added, message me on the discord modding channel. @xxxDestructionLord79xxx
 ## Items Spawning Regions
