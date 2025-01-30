@@ -15,7 +15,8 @@ This mod adds many new dolls / plushies / wall-hanged flags into the game for pl
 ## Items Spawning Regions
 - none
 ## Blueprints
-7 cloth --> a Plushy
+7 cloth + SewingKit --> a Plushy
+12 cloth + SewingKit --> a Flag
 ## Dependencies
 ModComponent , CraftingRevisions
 ## Localization
